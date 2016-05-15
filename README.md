@@ -8,6 +8,6 @@
 
 ##Отдельно тема тестирования визуальных регрессий, ссылки в репозитории
 + https://github.com/denis-zavgorodny/regression_testing 
-+ 
+
 ##Чат сообщества Черновцы Фронтенд (Chernivtsi Frontend) 
 + https://telegram.me/joinchat/Bq7KYT8X1sdwJ5WB8k-kOg
